@@ -77,7 +77,7 @@ div#sectionLinks {
 }
 
 div.choiceLetterCircle {
-    background: linear-gradient(145deg, #d46969, #b25858);
+    background: linear-gradient(145deg, #d46969, #b25858) !important;
     box-shadow:  5px 5px 10px #a04f4f,
                 -5px -5px 10px #ec7575;
     border: none !important;
