@@ -97,3 +97,8 @@ div.selectedChoice {
     box-shadow:  5px 5px 10px #6c3131,
                 -5px -5px 10px #9e4949 !important;
 }
+
+td.leaderboardUserPoints {
+	text-shadow: 5px 5px 10px #a04f4f,
+	             -5px -5px 10px #ec7575 !important;
+}
