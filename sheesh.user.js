@@ -81,7 +81,7 @@ div#dailyGoalProgressBarFrame {
 }
 
 #lessonSidebar {
-	background: #c66262 !important;
+	background: #c66262 !important !important;
 	box-shadow: inset 5px 5px 10px #a04f4f,
 				inset -5px -5px 10px #ec7575 !important;
     border: 0px !important;
