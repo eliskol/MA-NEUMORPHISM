@@ -118,3 +118,7 @@ td.leaderboardUserPoints {
 	text-shadow: 1px 1px 2px #a04f4f,
 	             -1px -1px 2px #ec7575 !important;
 }
+
+div#lessonFrame {
+    background: #c66262 !important;
+}
