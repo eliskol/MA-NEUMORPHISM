@@ -82,3 +82,9 @@ div.choiceLetterCircle {
                 -5px -5px 10px #ec7575 !important;
     border: none !important;
 }
+
+div.choiceLetterCircle:hover {
+    background: linear-gradient(145deg, #b25858, #d46969) !important;
+    box-shadow:  5px 5px 10px #a04f4f,
+                -5px -5px 10px #ec7575 !important;
+}
