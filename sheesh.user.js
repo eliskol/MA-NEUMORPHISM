@@ -11,6 +11,6 @@
 
 let link = document.createElement("link");
 link.rel = "stylesheet";
-link.href = "https://gitcdn.link/cdn/eliskol/MA-NEUMORPHISM/main/cssToCopy.css";
+link.href = "https://eliskol.github.io/MA-NEUMORPHISM/cssToCopy.css";
 link.type = "text/css";
 document.head.appendChild(link);
