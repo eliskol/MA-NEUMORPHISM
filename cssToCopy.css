@@ -102,16 +102,10 @@ div.choiceLetterCircle {
     border: none !important;
 }
 
-div.choiceLetterCircle:hover {
+div.choiceLetterCircle:hover, div.selectedChoice {
     background: linear-gradient(145deg, #b25858, #d46969) !important;
     box-shadow:  5px 5px 10px #a04f4f,
                 -5px -5px 10px #ec7575;
-}
-
-div.selectedChoice {
-    background: linear-gradient(145deg, #783737, #8e4141) !important;
-    box-shadow:  5px 5px 10px #6c3131,
-                -5px -5px 10px #9e4949 !important;
 }
 
 td.leaderboardUserPoints {
