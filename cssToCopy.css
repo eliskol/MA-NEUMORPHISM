@@ -24,6 +24,11 @@ body {
 	border: 0px !important;
 }
 
+div.taskTimeCompleted {
+	color: aliceblue !important;
+}
+
+
 .button {
 	/*border-radius: 50px !important;*/
 	background: linear-gradient(145deg, #057fd5, #056bb3) !important;
