@@ -8,7 +8,7 @@ body {
     /* box-shadow: inset 15px 15px 30px #8d4646,
             inset -15px -15px 30px #ff7e7e !important; */
     box-shadow: inset 5px 5px 10px #a04f4f,
-                -5px -5px 10px #ec7575 !important;
+                inset -5px -5px 10px #ec7575 !important;
 	padding: 45px !important;
 	border: 0px !important;
 }
