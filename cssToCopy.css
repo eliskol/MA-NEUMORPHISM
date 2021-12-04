@@ -1,25 +1,3 @@
-// ==UserScript==
-// @name         SO CLEAN
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
-// @author       You
-// @match        https://mathacademy.com/*
-// @icon         https://mathacademy.com/img/favicon.ico
-// @grant        none
-// ==/UserScript==
-
-function addGlobalStyle(css) {
-	var head, style;
-	head = document.getElementsByTagName('head')[0];
-	if (!head) { return; }
-	style = document.createElement('style');
-	style.type = 'text/css';
-	style.innerHTML = css;
-	head.appendChild(style);
-}
-
-addGlobalStyle(`
 body {
     background: #c66262 !important;
 }
@@ -85,4 +63,3 @@ div#dailyGoalProgressBarFrame {
                 -5px -5px 10px #ec7575 !important;
     border: 0px !important;
 }
-`);
