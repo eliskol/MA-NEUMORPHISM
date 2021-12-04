@@ -99,6 +99,6 @@ div.selectedChoice {
 }
 
 td.leaderboardUserPoints {
-	text-shadow: 5px 5px 10px #a04f4f,
-	             -5px -5px 10px #ec7575 !important;
+	text-shadow: 1px 1px 2px #a04f4f,
+	             -1px -1px 2px #ec7575 !important;
 }
