@@ -122,3 +122,11 @@ td.leaderboardUserPoints {
 div#lessonFrame {
     background: #c66262 !important;
 }
+
+div#steps {
+    background: #c66262 !important;
+}
+
+.step p, td, li {
+    color: black !important;
+}
