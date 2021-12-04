@@ -127,6 +127,6 @@ div#steps {
     background: #c66262 !important;
 }
 
-.step p, td, li {
+.step, .questionText, p, td, li, span {
     color: black !important;
 }
