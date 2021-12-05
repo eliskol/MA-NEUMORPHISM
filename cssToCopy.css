@@ -143,3 +143,7 @@ div.question {
     box-shadow:  20px 20px 60px #a85353,
              -20px -20px 60px #e47171;
 }
+
+div.reviewAnswerList {
+    border: none;
+}
