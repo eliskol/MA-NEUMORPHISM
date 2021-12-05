@@ -113,7 +113,7 @@ td.leaderboardUserPoints {
 	             -1px -1px 2px #ec7575 !important;
 }
 
-div#lessonFrame, div#reviewFrame {
+div#lessonFrame, div#reviewFrame, div#answerContainer {
     background: #c66262 !important;
 }
 
@@ -123,4 +123,15 @@ div#steps {
 
 .step, .questionText, p, td, li, span {
     color: black !important;
+}
+
+div#finalScreen-pointsMessage {
+    color: aliceblue;
+}
+
+div.taskExpanded {
+    background: #c66262;
+    border-radius: 10px !important;
+    box-shadow:  20px 20px 60px #a85353,
+             -20px -20px 60px #e47171;
 }
