@@ -53,8 +53,8 @@ div.taskProgressBar {
 div.sidebarFrame {
 	border-radius: 10px !important;
 	background: #c66262 !important;
-	box-shadow:  5px 5px 10px #a04f4f,
-	             -5px -5px 10px #ec7575 !important;
+	box-shadow:  5px 5px 10px #b65a5a,
+	             -5px -5px 10px #d66a6a !important;
 	border: 0px !important;
 }
 
