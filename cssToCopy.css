@@ -130,7 +130,14 @@ div#finalScreen-pointsMessage {
 }
 
 div.taskExpanded {
-    background: #c66262;
+    background: #c66262 !important;
+    border-radius: 10px !important;
+    box-shadow:  20px 20px 60px #a85353,
+             -20px -20px 60px #e47171;
+}
+
+div.question {
+    background: #c66262 !important;
     border-radius: 10px !important;
     box-shadow:  20px 20px 60px #a85353,
              -20px -20px 60px #e47171;
